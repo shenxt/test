@@ -5,4 +5,9 @@
 
 # this is from jaspershen in mac.
 
-##next we need a new function to calculate rsd
+###new function to get the rsd
+##this function has a bug, please fix it.
+calculate_rsd = function(...){
+  sd(...)/mean(...)
+}
+
