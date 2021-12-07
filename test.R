@@ -5,3 +5,4 @@
 
 # this is from jaspershen in mac.
 
+##next we need a new function to calculate rsd
