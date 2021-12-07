@@ -11,3 +11,7 @@ calculate_rsd = function(...){
   sd(...)/mean(...)
 }
 
+##will fix later
+
+##and we need a another function
+
